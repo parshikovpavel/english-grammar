@@ -2,9 +2,7 @@
 
 ## Конструкция be going to
 
-```diff
-+ Случаи употребления:
-```
+**Случаи употребления:**
 
 Употребляется в Present и Past. Русский аналог – `собирается`.
 
@@ -18,9 +16,7 @@
 >
 >  The boys are going to fight Мальчики подерутся
 
-```diff
-+ Правила образования:
-```
+**Правила образования:**
 
 ```
 be (present: am, is, are; past: was, were) 
@@ -29,9 +25,7 @@ be (present: am, is, are; past: was, were)
 
 В разговорном `going to` = `gonna`
 
-```diff
-+ Исключения
-```
+**Исключения**
 
 C глаголами `go` и` come` вместо *be going to* употребляется *Present Continuous*:
 
