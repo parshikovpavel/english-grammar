@@ -1,6 +1,6 @@
 # Времена
 
-## Конструкция be going to
+## `be going to` construction
 
 **Случаи употребления:**
 
