@@ -190,10 +190,6 @@ We stayed at a beautiful hotel, **the** **name** **of** **which** I can’t reme
 
 > While you **are having** lunch, I **will read** the newspaper Пока вы **будете** обедать, я **буду** читать газету
 
-- `whenever` – *всякий раз когда / когда бы ни*
-
-  >  You will have a good time **whenever** you come *вы хорошо проведете время всякий раз когда придете*
-
 - `since` – *начиная с, с тех пор как* . Чаще всего используются времена present perfect – в main clause,  past simple – после since:
 
   > i'm very happy **since** you came *я очень счастлива с тех пор, как ты пришел*
@@ -215,9 +211,43 @@ We stayed at a beautiful hotel, **the** **name** **of** **which** I can’t reme
 
 Указывают на обстоятельство, вопреки которому совершается действие главного предложения.
 
-·           though / although / even though – хотя, несмотря на (в любой части предложения)
+* `though` / `although` / `even though` – хотя, несмотря на (в любой части предложения)
 
-Though it was late, they continued their trip Хотя было поздно, они продолжили свою поездку
+  > Though it was late, they continued their trip *Хотя было поздно, они продолжили свою поездку*
+
+Местоимения, которые строятся по принципу: `noun + ever`
+
+- `whenever` (=`no matter when` (*не важно, когда*) = `It doesn't matter when` (*не имеет значения, когда*) – *когда бы ни* 
+
+  > You will have a good time **whenever** you come *Вы хорошо проведете время всякий раз когда придете*
+
+- `whatever` (=`no matter what` (*не важно, что / какую*) = `It doesn't matter what` (*не имеет значения, что / какой*):
+
+  - *что бы ни*
+
+    > Whatever happens you know Что бы ни случилось ты знаешь
+
+  - *какую бы ни*
+
+    > Whatever food you are looking for Какую бы еду вы не искали
+
+- `whoever` (=`no matter who` (*не важно, кто*) = `It doesn't matter who` (*не имеет значения, кто*) – *кто / кого / кем бы ни*:
+
+  > Whoever comes to us *Кто бы ни пришел к нам*
+
+- `wherever` (=`no matter where` (*не важно, где*) = `It doesn't matter where` (*не имеет значения, где*) – *где / куда / откуда бы ни*:
+
+  > Wherever you live *Где бы вы ни жили*
+
+- `whichever`(=`no matter which` (*не важно, который*) = `It doesn't matter where` (*не имеет значения, который*) – *который бы ни*:
+
+  > Whichever option we choose *Который бы вариант мы ни выбрали*
+
+- `however` (=`no matter how` (*не важно, как*) = `It doesn't matter how` (*не имеет значения, как*) – *как бы ни*:
+
+  > *However you* look *at it* *Как бы вы не посмотрели на это*
+
+  
 
 ### Следствия (result)
 
