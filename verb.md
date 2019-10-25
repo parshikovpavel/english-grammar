@@ -1,6 +1,6 @@
 # Tenses
 
-### Present Continuous
+## Present Continuous
 
 **Случаи употребления:**
 
@@ -165,7 +165,9 @@ will + V1 (инфинитив).
 
 `will not` часто сокращается до `won't`
 
-### Present Perfect (настоящее совершенное)
+## Present Perfect
+
+Present perfect (настоящее совершённое)
 
 Используется при описании событий, которые случились в прошлом, но результат наблюдается сейчас (в настоящем). 
 
@@ -193,27 +195,27 @@ https://engblog.ru/present-perfect-vs-past-simple
 
 1. Согласно определению: при описании событий, которые случились в прошлом, но результат наблюдается сейчас (в настоящем). Причем важен именно результат:
 
-   - `just` – только что (произошло):
+   - `just` – только что (произошло). `+` и `?` *sentences*, *mid position*:
 
-     > I have just had my breakfast – *Я только что позавтракал*
+     > I have **just** had my breakfast – *Я только что позавтракал*
 
-   - `already` – уже (в утверждениях, уже произошло, о совершившемся действии). Ставится в середину.
+   - `already` – уже (уже произошло, о совершившемся действии). `+` *sentences*, *mid position*.
 
      > I have already read this book – *Я уже читал эту книгу*
-
-c)      yet – уже (в вопросах, еще не произошло, но произойдет). Ставится в конец.
-
-Have you seen the new teacher yet? Ты уже видел нового учителя?
-
-d)     yet – еще не (в отрицании, еще не произошло). Ставится в конец.
-
-I haven't bought any milk yet Я еще не купил молоко
-
-e)      НЕ ОТНОСИТСЯ к PRESENT PERFECT, используется с PRESENT SIMPLE и CONTINUOS still – еще/пока + настоящее время (в утверждениях и вопросах, не используется в отрицании) действие не закончилось и продолжает до сих пор. Предполагается что действие длиться дольше, чем ожидалось. Место still аналогично наречиям частотности. 
-
-Do you still live with your parents? Ты все еще живешь с родителями?
-
-The police are still trying to understand the cause of the fire. Полиция все еще пытается понять причину пожара.
+     
+   - `yet` – уже? (уже произошло? ожидаем, что произойдет). `?` *sentences*, *end position*.
+   
+     > Have you seen the new teacher **yet**? Ты уже видел нового учителя?
+   
+   - `yet` – еще не (еще не произошло). `-` *sentences*, *end position*.
+   
+     > I haven't bought any milk **yet** Я еще не купил молоко
+   
+   - НЕ ОТНОСИТСЯ к PRESENT PERFECT, используется с PRESENT SIMPLE и CONTINUOS `still` – еще/пока + настоящее время, действие не закончилось и продолжает до сих пор. Предполагается что действие длиться дольше, чем ожидалось. Используется в  `+` и `?` *sentences*, не используется в `-`  *sentences* – аналог `no longer`, `no more`, `not ... any longer`, `not ... any more`. `mid position`.
+   
+     > Do you **still** live with your parents? Ты все еще живешь с родителями?
+     >
+     > The police are **still** trying to understand the cause of the fire. Полиция все еще пытается понять причину пожара.
 
 f)       recently/lately  – недавно, на днях. Ставится в конец.
 
