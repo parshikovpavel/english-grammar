@@ -258,19 +258,26 @@ She smiled at **what** **I** **said** Она улыбнулась тому, чт
 
   > *However you* look *at it* *Как бы вы не посмотрели на это*
 
-  
 
 ### Следствия (result)
 
 Позволяют сообщить о результате действия или сложившейся ситуации.
 
-·           so (so that) – поэтому, так что
+- `so` (`so that`) – поэтому, так что (более распространенное и неофициальное)
 
-The weather was awful, so we stayed at home Погода была ужасная, поэтому мы остались дома.
+  >  The weather was awful, **so** we stayed at home *Погода была ужасная, поэтому мы остались дома.*
 
-·           so … that
+- `therefore` – поэтому / по этой причине / следовательно. Может использоваться как в одном предложении, так и связывать два. Может стоять в *mid position*. 
 
-·           such … that
+  > the class is complex and therefore large *Класс является сложным и поэтому большим*
+
+- `as a result` – в результате (формально)
+
+  > As a result I decided *В результате я решил*
+
+- `for this reason` – по этой причине 
+
+  > For this reason I decided *По этой причине я решил*
 
 ### Цели (purpose)
 
