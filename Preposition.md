@@ -124,6 +124,7 @@ https://easyspeak.ru/blog/vsyo-o-grammatike/upotreblenie-predlogov-v-anglijskom-
 | **over = more than** | более чем / свыше  (при указании какого-либо количества, скорости, расстояния, времени) | There were **over** fifty people in the room *В комнате было более пятидесяти человек* |
 | **above** | выше (при измерении по вертикальной шкале температуры и высоты) | It's 10 degrees **above **zero *10 градусов выше нуля* |
 | **about** | около / примерно (немного больше или меньше указанного количества) | **about** 10 people *примерно 10 человек* |
+| **almost (nearly)** | почти (но не совсем, не полностью, чуть не). | I am **almost** (=**nearly**) thirty four *Мне почти тридцать четыре* |
 
 ## Другие предлоги
 

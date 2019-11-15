@@ -1,4 +1,6 @@
-# Усилительные наречия 
+# Виды наречий
+
+## Усилительные наречия 
 
 http://grammar-tei.com/usilenie-stepenej-sravneniya-prilagatelnyx-i-narechij-v-anglijskom-yazyke/
 
@@ -6,13 +8,13 @@ http://grammar-tei.com/usilenie-stepenej-sravneniya-prilagatelnyx-i-narechij-v-a
 
 Употребляются только с прилагательными и наречиями, и ставятся перед ними
 
-| Интенсивность                                            | От формальным -> к неформальным                              |
-| -------------------------------------------------------- | ------------------------------------------------------------ |
-| 100% (абсолютное качество)  | Absolutely, totally, utterly,  completely |
-| 75-99%  | Very, extremely, really, bloody, damn, dead |
-| 50-75 % | Quite, somewhat, jolly, pretty |
-| 50%  | Rather,  a tad |
-| 1-50 % | Fairly, a bit, a little, slightly, a little bit |
+| Интенсивность              | От формальным -> к неформальным                              |
+| -------------------------- | ------------------------------------------------------------ |
+| 100% (абсолютное качество) | Absolutely, totally, utterly,  completely                    |
+| 75-99%                     | Very, almost (=nearly), extremely, really, bloody, damn, dead |
+| 50-75 %                    | Quite, somewhat, jolly, pretty                               |
+| 50%                        | Rather,  a tad                                               |
+| 1-50 %                     | Fairly, a bit, a little, slightly, a little bit              |
 
 
 С *comparative adjectives* и *comparative adverbs*  могут употребляться:
@@ -24,15 +26,17 @@ http://grammar-tei.com/usilenie-stepenej-sravneniya-prilagatelnyx-i-narechij-v-a
 
  
 
-# Наречия частоты
+## Наречия частоты
 
 ​                                  
 
  
 
-# Наречия образа действия 
+## Наречия образа действия 
 
-*Adverbs of manner*. Отвечают на вопрос: *Как? (How?)*
+*Наречия образа действия (Adverbs of manner)*. 
+
+Отвечают на вопрос: *Как? (How?)*
 
 <u>Способ образования:</u>
 
@@ -63,6 +67,34 @@ http://grammar-tei.com/usilenie-stepenej-sravneniya-prilagatelnyx-i-narechij-v-a
    > good (хороший) – well (хорошо)
 
 
+
+##  Фокусирующие наречия
+
+Фокусирующие наречия (focusing adverbs) – используются для привлечения внимания к определенной части предложения.
+
+Виды:
+
+1. Adding information
+
+   - `also`
+   - `as well`
+   - `too`
+
+2. Limiting information
+
+   - `just`
+   - `only`
+
+3. Partially limiting information
+
+   - `especially`
+   - `at least`
+
+4. Generalizing (мое)
+
+   - ` generally ` –  в целом, в общем
+
+     > this idea is **generally** good *эта идея в целом хороша*
 
 # Степени сравнения
 
