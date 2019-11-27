@@ -25,6 +25,20 @@ https://grammarway.com/ru/compound-and-complex-sentences
 * `however` – но, однако (может стоять в любом месте предложения)
 
   >  **however** many (=a lot of) doctors agree with it однако многие врачи согласны с этим
+  
+*  `not only …. bus also...`  – не только …. , но и...  Используется для перечисления качеств, характеристик. Может использоваться с любыми частями речи (adj, verb, noun...) 
+
+  >  She is **not only** beautiful **but also** intelligent  *Она не только красивая, но и умная* 
+
+* `rather than  `– а не / вместо (=instead of; used especially when you prefer one thing to another)
+
+  >  Let's take the train **rather than** the bus *Давай сядем на поезд, а не на автобус* 
+  >
+  > She wants us to meet her here **rather than** go to her apartment.  *Она хочет, чтобы мы встретились с ней здесь, а не пошли в ее квартиру.* 
+
+* `and` – а.  Русский союз `а` имеет смысл не отрицания и не соединения, а противопоставления и сравнения. В английском такого союза нет. Переводится как `and` (в значении `и`) или `but` (в значении `но`).
+
+  > I will go, *and* you stay here. *Я пойду, а ты оставайся здесь*
 
 ## Разделительная связь
 
@@ -306,15 +320,16 @@ She smiled at **what** **I** **said** Она улыбнулась тому, чт
   
 * Если в главном и придаточном предложениях разные подлежащее используется союз `so (that)` – *чтобы*. 
   
-После него должны использоваться модальные глаголы (`can`, `could`, `will`, `would`, `should` ).
-  
-Если действие относится к настоящему или будущему, используется `so that` + `can`:
-  
->  The teacher speaks slowly *so that* his pupils *can* understand him Учитель говорит медленно, *чтобы* его ученики понимали его
-  
-Если действие относится к прошлому, используется `so that` + `could`:
-  
-  >  He spoke loudly *so that* everybody could hear him. Он говорил громко, *чтобы* все слышали его
+
+    После него должны использоваться модальные глаголы (`can`, `could`, `will`, `would`, `should` ).
+
+    Если действие относится к настоящему или будущему, используется `so that` + `can`:
+
+    >  The teacher speaks slowly *so that* his pupils *can* understand him Учитель говорит медленно, *чтобы* его ученики понимали его
+
+    Если действие относится к прошлому, используется `so that` + `could`:
+
+    >  He spoke loudly *so that* everybody could hear him. Он говорил громко, *чтобы* все слышали его
 
 ### Условия (условные предложения)
 
