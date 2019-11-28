@@ -349,4 +349,3 @@ https://alleng.org/mybook/3gram/6verb_non-fin_ger1.htm
 
 Смотреть [придаточные предложения цели](ComplexSentence.md#цели-purpose).
 
-# 
