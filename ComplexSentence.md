@@ -341,3 +341,33 @@ She smiled at **what** **I** **said** Она улыбнулась тому, чт
 
   > **As long as** you follow the rules, you're safe – При условии что ты следуешь правилам, ты в безопасности 
 
+### Adverbial Phrase
+
+Иногда вы можете заменить *adverbial clause* на *adverbial phrase* (также  *modifying adverbial phrase*, обстоятельственная фраза).  *Adverbial phrase* содержит меньше слов, чем *adverbial clause*. 
+
+Порядок преобразования *adverbial clause* в *adverbial phrase*. 
+
+- Преобразовывать можно только те предложения, у которых *subject* основного и подчиненного предложения совпадает.
+
+-  Если *adverbial clause* содержит `be`, то нужно опустить *subject* и `be` . 
+
+  >  **While I was driving** to work, I got stuck in traffic.
+  >
+  >  **While driving** to work, I got stuck in traffic.
+
+- Если *adverb clause* не содержит *be*, то нужно опустить *subject* и заменить глагол на *ing-форму*. 
+
+  >  **Before I took** the exam, I reviewed my notes.
+  >
+  >  **Before taking** the exam, I reviewed my notes.
+
+Можно заменять *adverbial clause* со следующими союзами:
+
+- `while`
+- `when`
+- `after`
+- `before`
+- `since`
+- `because` (особые правила)
+
+[[1](https://www.theenglishisland.com/lessons/modifying-adverbial-phrases/)] [[2](https://www.elc.edu/grammar-lesson-reducing-adverb-clauses-to-modifying-adverbial-phrases/)]
