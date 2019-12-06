@@ -342,6 +342,12 @@ https://alleng.org/mybook/3gram/6verb_non-fin_ger1.htm
 | to do | пытаться / стараться (to make an effort to do something) | What are you **trying to do**? *Что ты пытаешься сделать?* |
 
 
+| Remember |      |      |
+| ---- | ---- | ---- |
+| doing | помнить (to have or keep an image in your memory from the past) | I remember **signing** a contract *Я помню, **что подписывал** контракт* |
+| to do | не забыть (to not forget to do something; to actually do what you have to do) | Remember (=don't forget) **to sign** a contract *Не забудь **подписать** контракт* |
+
+
 
 #### Дополнение глагола после предлога
 
