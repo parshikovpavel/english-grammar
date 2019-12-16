@@ -392,6 +392,10 @@ https://alleng.org/mybook/3gram/6verb_non-fin_ger1.htm
   > I'm **glad to** see you *Я рад видеть тебя*
   >
   > It **isn't easy to** do *Это не просто сделать*
+  
+- после [соединительных местоимений](Pronoun.md#Относительные-и-соединительные-местоимения) (*conjunctive pronoun*): `what`, `whom`, `which`, `when`, `why`, `where`, `how` и др. В следующей форме: `verb` + `conj pronoun` + `to infinitive`.  Предложения, построенные по этой схеме, похожи на сложные, но по сути сложными не являются, потому что включают только одну пару подлежащего и сложного сказуемого. 
+
+  >  I knew **where to look for** her *Я знал где искать ее*
 
 ### Обстоятельство
 
