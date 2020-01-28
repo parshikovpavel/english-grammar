@@ -306,7 +306,21 @@ https://alleng.org/mybook/3gram/6verb_non-fin_ger1.htm
 
 ### Функции герундия в предложении
 
-#### Прямое дополнение после глагола
+#### Подлежащее
+
+Инфинитив в роли подлежащего не употребляется, только герундий. Возможно употребление:
+
+- в одиночку:
+
+  > **Smoking** is bad for health *Курение (курить) вредно для здоровья*
+
+- с зависимыми словами:
+
+  > **Swimming** in the lake is forbidden *Купание (купаться) в озере запрещено.*
+
+#### Дополнение
+
+##### Прямое дополнение после глагола
 
 <u>Глаголы, после которых употребляется только герундий.</u>
 
@@ -350,13 +364,17 @@ https://alleng.org/mybook/3gram/6verb_non-fin_ger1.htm
 | doing | помнить (to have or keep an image in your memory from the past) | I remember **signing** a contract *Я помню, **что подписывал** контракт* |
 | to do | не забыть (to not forget to do something; to actually do what you have to do) | Remember (=don't forget) **to sign** a contract *Не забудь **подписать** контракт* |
 
+
 | Forget |      |      |
 | ---- | ---- | ---- |
 | doing | забыть / позабыть (to be unable to remember something that has happened in the past or information that you knew in the past) | I will never forget **taking** my final exams at University *Я никогда не забуду, как **сдавал** выпускные экзамены в Университете* |
 | to do | забыть (to not remember to do something that you ought to do) | Remember (=don't forget) **to sign** a contract *Не забудь **подписать** контракт* |
 
+##### Предложное дополнение после глагола
 
-#### Дополнение глагола после предлога
+После предлога может употребляться только герундий (не инфинитив). 
+
+> We are thinking **of going** there *Мы думаем пойти туда*n
 
 #### В роли обстоятельства
 
