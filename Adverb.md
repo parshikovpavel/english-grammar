@@ -10,7 +10,7 @@ http://grammar-tei.com/usilenie-stepenej-sravneniya-prilagatelnyx-i-narechij-v-a
 
 | Интенсивность              | От формальным -> к неформальным                              |
 | -------------------------- | ------------------------------------------------------------ |
-| 100% (абсолютное качество) | Absolutely, totally, utterly,  completely                    |
+| 100% (абсолютное качество) | Absolutely, incredible, totally, utterly, completely         |
 | 75-99%                     | Very, almost (=nearly), extremely, really, bloody, damn, dead |
 | 50-75 %                    | Quite, somewhat, jolly, pretty                               |
 | 50%                        | Rather,  a tad                                               |
@@ -19,10 +19,10 @@ http://grammar-tei.com/usilenie-stepenej-sravneniya-prilagatelnyx-i-narechij-v-a
 
 С *comparative adjectives* и *comparative adverbs*  могут употребляться:
 
-| Интенсивность                                            | От формальным -> к неформальным                              |
-| -------------------------------------------------------- | ------------------------------------------------------------ |
-| 75-99% | much/far/a  lot | намного            |
-| 1-50 % | a bit,  a little    | немного, чуть-чуть |
+| Интенсивность | От формальным -> к неформальным |
+| ------------- | ------------------------------- |
+| 75-99%        | much, far, a lot                |
+| 1-50 %        | a bit, a little                 |
 
  
 
