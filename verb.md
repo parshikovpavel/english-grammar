@@ -497,7 +497,7 @@ http://engblog.ru/modal-verb-can
 
 > You **have to** Ты **должен** делать
 
-**–**  `don't / doesn't have to` – "не обязательно", "не нужно", для выражениям отсутствия обязанности  (*obligation*), необходимости (*necessity*) =`
+**–**  `don't / doesn't have to` – "не обязательно", "не нужно", для выражениям отсутствия обязанности  (*obligation*), необходимости (*necessity*) =`don't need to`
 
 > You **don't have to** do Тебе **не обязательно** делать
 
