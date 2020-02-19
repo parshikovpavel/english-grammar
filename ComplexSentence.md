@@ -292,6 +292,14 @@ She smiled at **what** **I** **said** Она улыбнулась тому, чт
 - `for this reason` – по этой причине 
 
   > For this reason I decided *По этой причине я решил*
+  
+- `thus`:
+
+  - поэтому / по этой причине / следовательно =`therefore`
+
+  - так / таким способом (in this way; like this ):
+
+    > I wanted to do it and **thus** help you я хотел сделать это и **таким образом** помочь тебе
 
 ### Цели (purpose)
 
