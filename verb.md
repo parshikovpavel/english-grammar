@@ -453,19 +453,15 @@ https://alleng.org/mybook/3gram/6verb_non-fin_ger1.htm
 
 Однако многие *modal verb'*s имеют глаголы-эквиваленты, которые этими свойствами не обладают.
 
-|                                 |                               |                                                              |
-| ------------------------------- | ----------------------------- | ------------------------------------------------------------ |
-| should [ʃʊd]  shouldn’t [ʃʊdnt] | следует (рекомендация)        | You should trust your friend  Вам следует доверять своему другу |
-| can [kæn]  can’t [kɑːnt]        | мочь,  уметь                  | I can go to the gym  Я могу пойти в спортзал                 |
-| could [kʊd]  couldn’t ['kudnt]  | форма  прошедшего времени can |                                                              |
+|                                |                               |                                              |
+| ------------------------------ | ----------------------------- | -------------------------------------------- |
+|                                |                               |                                              |
+| can [kæn]  can’t [kɑːnt]       | мочь,  уметь                  | I can go to the gym  Я могу пойти в спортзал |
+| could [kʊd]  couldn’t ['kudnt] | форма  прошедшего времени can |                                              |
 
 https://speakenglishwell.ru/modalnye-glagoly-v-anglijskom-yazyke-modal-verbs/
 
 http://engblog.ru/modal-verb-can
-
-## should
-
-`should` является формой прошедшего времени модального глагола `shall`.
 
 ## `must` / `have to`
 
@@ -506,7 +502,7 @@ http://engblog.ru/modal-verb-can
 
 > **Do** I **have to** ? Я должен делать ?
 
-### `may` / `might`
+## `may` / `might`
 
 **\+** `may` / `might`
 
@@ -543,4 +539,35 @@ http://engblog.ru/modal-verb-can
   > Can (=may) I listen to again Можно послушать еще раз
 
 - просьба (*request*)??? 
+
+## `shall`
+
+Случаи употребления:
+
+- В вопросах с предложением (*offers*) с подлежащими `I` и `We`. Можно использовать также `will`:
+
+  > Will (=shall) I open the window? Я открою окно?
+  >
+
+## `should`
+
+**\+** `should`
+
+**–**  `should not` (`shouldn't`) 
+
+<u>Случаи употребления:</u>
+
+- дать кому-то совет (*advice*), предложение (*suggestion*), "было бы неплохо, если бы ты сделал..." Переводится "следует", "должен". Более слабый глагол чем `must`.
+
+  > You **should sleep** more. *Тебе следует спать больше*
+  >
+  > You **should not (shouldn’t) work** so much. *Тебе не следует так много работать.*
+
+- чтобы сказать, что идеально (*ideal*), желаемо (*desired*), правильно (*right*):
+
+  > There **should be** more public hospitals. Там должно быть больше государственных больниц.
+
+- чтобы попросить совет (*advice*) или указание:
+
+  > **Should** I call him *Должен ли я позвонить ему*
 
